@@ -1,7 +1,7 @@
 ### Hi there 👋
-# welcome on github page 
+# Welcome on Github page 
 <!--
-**rahulmahaseth/rahulmahaseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rahulmahaset/rahulmahaseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
